@@ -1,0 +1,25 @@
+
+#naranja {
+    background-color: orange;
+    color: white;
+}
+
+#negro {
+    background-color: black;
+    color: white;
+}
+
+#amarillo {
+    background-color: yellow;
+    color: black;
+}
+
+/* Diseño de los botones */
+button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+}
